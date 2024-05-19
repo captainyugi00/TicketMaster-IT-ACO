@@ -1,0 +1,2 @@
+URL,USERNAME,PASSWORD,FIRST_NAME,LAST_NAME,EMAIL,CARD_NUMBER,CARD_CVV,CARD_EXP_MONTH,CARD_EXP_YEAR,TICKET_TYPE,TICKET_QUANTITY,
+https://shop.ticketmaster.it/biglietti/acquista-biglietti-santi-francesi-live-it-42290.html,test@gmail.com,testpassword,test_name1|test_name2|test_name3|test_name4,test_surname1|test_surname2|test_surname3|test_surname4,test@gmail.com,testcc,testcvv,testexpmonth,testexpyear,Unico,4,
